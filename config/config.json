@@ -1,6 +1,6 @@
 {
   "development": {
-    "username": "root",
+    "username": "root-remote",
     "password": "1234",
     "database": "nodejs",
     "host": "0.0.0.0",
